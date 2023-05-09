@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/dolbyio-samples"><img src="../assets/github-banner.jpg"/></a>
+  <a href="https://github.com/dolbyio-samples"><img src="./assets/github-banner.jpg"/></a>
 </div>
 
 <div id="social" align="center">
