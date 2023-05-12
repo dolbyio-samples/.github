@@ -1,3 +1,24 @@
+<style>
+  /* container */
+  .three-pillars {
+      display:block;
+  }
+
+  /* columns */
+  .three-pillars > * {
+      padding:1rem;
+  }
+
+  /* tablet breakpoint */
+  @media (min-width:768px) {
+      .three-pillars {
+          display: grid;
+          grid-auto-rows: 1fr;
+          grid-template-columns: 1fr 1fr 1fr;
+      }
+  }
+</style>
+
 <div align="center">
   <a href="https://github.com/dolbyio-samples"><img src="./assets/github-banner.jpg"/></a>
 </div>
@@ -11,7 +32,21 @@
   &nbsp; &nbsp; &nbsp;
 </div>
 
-<div >
-<h3>Dolby.io is the API platform for communications, streaming and media. </h2>
-Learn how to integrate high-fidelity audio and video solutions into your real-time communications and file-based media processing applications. You can find the knowledge, documentation, tools and sample projects to help you get started.
+<div id="blurb">
+  <h2>Build true-to-life experiences with the Dolby.io developer platform</h2>
+</div>
+
+<div class="three-pillars">
+  <div class="column">
+    <h3>Streaming APIs</h3>
+    <p>Deliver instant, real-time streaming experiences with less than half a second of latency.</p>
+  </div>
+  <div class="column">
+      <h3>Communications APIs</h3>
+      <p>Add Dolby-quality voice, video, and spatial chat to your applications.</p>
+  </div>
+  <div class="column">
+      <h3>Media APIs</h3>
+      <p>Streamline file-based media workflows with automated voice and music post-processing.</p>
+  </div>
 </div>
