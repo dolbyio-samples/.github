@@ -23,7 +23,7 @@
           <p>Deliver instant, real-time streaming experiences with less than half a second of latency.</p>
       </td>
       <td width="33%" valign="top" style="padding-top: 10px; padding-bottom: 10px; padding-left: 20px; padding-right: 20px;">
-            <b>Comms APIs</b>
+            <b>Communications APIs</b>
             <p>Add Dolby-quality voice, video, and spatial chat to your applications.</p>
       </td>
       <td width="33%" valign="top" style="padding-top: 10px; padding-bottom: 10px; padding-left: 20px; padding-right: 20px;">
