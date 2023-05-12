@@ -19,15 +19,15 @@
   <table width="90%">
     <tr>
       <td width="33%" valign="top" style="padding-top: 10px; padding-bottom: 10px; padding-left: 20px; padding-right: 20px;">
-          <h4>Streaming APIs</h4>
+          <h3>Streaming APIs</h3>
           <p>Deliver instant, real-time streaming experiences with less than half a second of latency.</p>
       </td>
       <td width="33%" valign="top" style="padding-top: 10px; padding-bottom: 10px; padding-left: 20px; padding-right: 20px;">
-            <h4>Comms APIs</h4>
+            <h3>Comms APIs</h3>
             <p>Add Dolby-quality voice, video, and spatial chat to your applications.</p>
       </td>
       <td width="33%" valign="top" style="padding-top: 10px; padding-bottom: 10px; padding-left: 20px; padding-right: 20px;">
-            <h4>Media APIs</h4>
+            <h3>Media APIs</h3>
             <p>Streamline file-based media workflows with automated voice and music post-processing.</p>
       </td>
     </tr>
