@@ -12,7 +12,7 @@
 </div>
 
 <div id="blurb">
-  <h2>Build true-to-life experiences with the Dolby.io developer platform</h2>
+  <h2>Integrate APIs for real-time streaming, voice & video communications, and file-based media processing.</h2>
 </div>
 
 <div align="center">
@@ -20,15 +20,15 @@
     <tr>
       <td width="33%" valign="top" style="padding-top: 10px; padding-bottom: 10px; padding-left: 20px; padding-right: 20px;">
           <b>Streaming APIs</b>
-          <p>Deliver instant, real-time streaming experiences with less than half a second of latency.</p>
+          <p>Build real-time streaming applications to securely broadcast your live content with low latency in milliseconds.</p>
       </td>
       <td width="33%" valign="top" style="padding-top: 10px; padding-bottom: 10px; padding-left: 20px; padding-right: 20px;">
             <b>Communications APIs</b>
-            <p>Add Dolby-quality voice, video, and spatial chat to your applications.</p>
+            <p>Add spatial chat and secure real-time multi-party communications to your applications.</p>
       </td>
       <td width="33%" valign="top" style="padding-top: 10px; padding-bottom: 10px; padding-left: 20px; padding-right: 20px;">
             <b>Media APIs</b>
-            <p>Streamline file-based media workflows with automated voice and music post-processing.</p>
+            <p>Automate file-based media for speech and music workflows.</p>
       </td>
     </tr>
   </table>
