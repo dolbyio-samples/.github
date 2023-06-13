@@ -1,6 +1,6 @@
 
 <div align="center">
-  <a href="https://github.com/dolbyio-samples"><img src="./assets/github-banner.jpg"/></a>
+  <a href="https://github.com/dolbyio-samples"><img src="https://github.com/dolbyio-samples/.github/blob/main/profile/assets/github-banner.jpg"/></a>
 </div>
 
 <div id="social" align="center">
