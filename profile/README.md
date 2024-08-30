@@ -18,9 +18,9 @@
 <h3>About Dolby.io </h3>
 </div>
 
-Using decades of Dolby's research in sight and sound technology, Dolby.io provides APIs to integrate real-time streaming, voice & video communications, and file-based media processing into your applications. [Sign up for a free account](https://dashboard.dolby.io/signup) to get started building the next generation of immersive, interactive, and social apps.
+Using decades of Dolby's research in sight and sound technology, Dolby.io provides APIs to integrate real-time streaming and file-based media processing into your applications. [Sign up for a free account](https://dashboard.dolby.io/signup) to get started building the next generation of immersive, interactive, and social apps.
 
 ### Topic Explorer 
 <div align="center">
-<a href="https://github.com/dolbyio-samples?q=dolbyio-comms&type=all&language=&sort=stargazers"><img src="https://img.shields.io/badge/Dolby.io-Communication%20APIs-green" alt="Communications APIs"/></a>&nbsp; &nbsp; &nbsp;<a href="https://github.com/dolbyio-samples?q=dolbyio-streaming&type=all&language=&sort=stargazers"><img src="https://img.shields.io/badge/Dolby.io-Streaming%20APIs-blue" alt="Streaming APIs"/></a> &nbsp; &nbsp; &nbsp; <a href="https://github.com/dolbyio-samples?q=dolbyio-media&type=all&language=&sort=stargazers"><img src="https://img.shields.io/badge/Dolby.io-Media%20APIs-orange" alt="Media APIs"/></a>
+<a href="https://github.com/dolbyio-samples?q=dolbyio-streaming&type=all&language=&sort=stargazers"><img src="https://img.shields.io/badge/Dolby.io-Streaming%20APIs-blue" alt="Streaming APIs"/></a> &nbsp; &nbsp; &nbsp; <a href="https://github.com/dolbyio-samples?q=dolbyio-media&type=all&language=&sort=stargazers"><img src="https://img.shields.io/badge/Dolby.io-Media%20APIs-orange" alt="Media APIs"/></a>
  </div>
