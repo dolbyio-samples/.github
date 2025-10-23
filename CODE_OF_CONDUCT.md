@@ -1,4 +1,4 @@
-# Dolby.io Open Source Code of Conduct
+# Dolby OptiView Open Source Code of Conduct
 
 ## Our Pledge
 
